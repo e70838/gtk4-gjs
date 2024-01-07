@@ -2,5 +2,6 @@
 <gresources>
 	<gresource prefix="/tk/e70838/filebrowser/js">
 		<file>main.js</file>
+		<file>Application.js</file>
 	</gresource>
 </gresources>
