@@ -3,5 +3,6 @@
 	<gresource prefix="/tk/e70838/filebrowser">
 		<file>ui/WelcomeWidget.ui</file>
 		<file>ui/Window.ui</file>
+		<file>css/style.css</file>
 	</gresource>
 </gresources>
